@@ -1,4 +1,6 @@
 {
+  "installCommand": "npm install -g pnpm@10.12.4 && pnpm install",
+  "buildCommand": "pnpm build",
   "headers": [
     {
       "source": "/fonts/inter-var-latin.woff2",
