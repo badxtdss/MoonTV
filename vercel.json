@@ -1,5 +1,5 @@
 {
-  "installCommand": "npm install -g pnpm@10.12.4 && pnpm install",
+  "installCommand": "npm install -g pnpm@10.12.4 && pnpm install --registry=https://registry.npmmirror.com",
   "buildCommand": "pnpm build",
   "headers": [
     {
